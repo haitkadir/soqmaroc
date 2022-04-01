@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>JS Lesson</title>
+
+</head>
+<body>
+<script language="javascript">
+
+//object.method("property");
+//var x;
+x=window.prompt("To Continue Please Enter Your Name Below");
+document.write("Welcome Back, " +x);
+alert("Redirecting Now User, " + x);
+
+</script>
+
+</body>
+</html>
